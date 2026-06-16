@@ -1,0 +1,21 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "auth0-ai-langchain>=1.0.1",
+    "fastapi>=0.110.0",
+    "langchain-community>=0.2.0",
+    "langchain-core>=0.2.0",
+    "langchain-google-genai>=1.0.0",
+    "langchain-weaviate>=0.0.2",
+    "langgraph>=0.1.0",
+    "openfga-sdk>=0.6.0",
+    "pypdf>=4.0.0",
+    "python-dotenv>=1.0.1",
+    "sentence-transformers>=3.0.0",
+    "uvicorn>=0.28.0",
+    "weaviate-client>=4.5.4",
+]

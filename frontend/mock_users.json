@@ -1,0 +1,4 @@
+{
+  "alice@enterprise.com": {"name": "Alice Sterling", "role": "admin", "id": "user:alice"},
+  "bob@enterprise.com": {"name": "Bob Vance", "role": "collaborator", "id": "user:bob"}
+}
