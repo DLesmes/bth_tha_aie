@@ -31,3 +31,5 @@ Solution costs
 ### [4.cost_estimate.md](/deliverables/4.cost_estimate.md)
 
 Azure cloud costs estimate detail
+
+# [🎥 Demo video description](https://drive.google.com/file/d/1PL0ES7TJ5o6jDH1z6WjQtZAZx0NwdoyR/view?usp=sharing)
